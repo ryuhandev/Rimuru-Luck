@@ -3,7 +3,6 @@
   <!-- Slime emoji + Rimuru logo -->
   <img src="https://files.catbox.moe/f8tj1b.png" width="160" alt="Rimuru" />
   <br><br>
-  <img src="https://files.catbox.moe/8qxn81.png" width="48" alt="Slime" />
   <h1 align="center">🍀 10x Luck Fruit<br><em>Roblox Lua</em></h1>
   <p align="center">
     <strong>Modern, mobile-friendly buff panel for Blox-Fruits-style games.</strong><br>
@@ -27,39 +26,15 @@
 
 ---
 
-<!-- --------------  ONE-CLICK COPY  -------------- -->
-<div align="center">
-
-### 🚀 Quick Install
+## 🚀 Quick Install
 
 1. Open your executor  
-2. **Tap the box below** → it auto-copies  
-3. Paste & **Execute**  
-4. Enjoy the luck! 🍀
+2. Copy the code below  
+3. Execute  
+4. Enjoy 🎉  
 
-<!-- copy button + script -->
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <b>📋 Copy-me box</b>
-    </td>
-    <td>
-      <input
-        id="copyBox"
-        value='loadstring(game:HttpGet("https://raw.githubusercontent.com/ryuhandev/Rimuru-Luck/refs/heads/main/RimuLuck.lua"))()'
-        onclick="this.select(); document.execCommand('copy'); this.style.background='#90EE90'; this.value='✅ Copied!'; setTimeout(()=>{this.value=`loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ryuhandev/Rimuru-Luck/refs/heads/main/RimuLuck.lua\"))()`; this.style.background='#fff'}, 1500)"
-        style="width:100%; font-family:monospace; font-size:14px; padding:8px; border:2px solid #00c3ff; border-radius:8px; background:#fff; color:#000;"
-        readonly
-      />
-    </td>
-  </tr>
-</table>
-
-> Made with 💙 by **Ryuhan Dev**  
-> 「リムル・テンペスト」
-
-</div>
-
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ryuhandev/Rimuru-Luck/refs/heads/main/RimuLuck.lua"))()
 
 ---
 
