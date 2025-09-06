@@ -34,7 +34,7 @@
 4. Enjoy 🎉  
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ryuhandev/Rimuru-Luck/refs/heads/main/RimuLuck.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ryuhandev/Rimuru-Luck/refs/heads/main/RimuLuck.lua"))()```
 
 ---
 
