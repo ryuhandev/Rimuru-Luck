@@ -35,13 +35,3 @@
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ryuhandev/Rimuru-Luck/refs/heads/main/RimuLuck.lua"))()```
-
----
-
-## 📁 Project Tree
-<repo-root>
-├─ README.md
-├─ LICENSE
-├─ RimuLuck.lua        ← main LocalScript
-└─
-```
